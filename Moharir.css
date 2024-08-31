@@ -1,0 +1,43 @@
+body{
+    background: #2e2d2d52;
+}
+main{
+    text-align: center;
+}
+#textarea1{
+width: 98%;
+min-height: 280px;
+min-width: 40%;
+max-width: 98%;
+border-radius: 16px;
+border: 2px solid rgb(131, 131, 131);
+}
+
+#div1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div1 button{
+    width: 47%;
+    border-radius: 12px;
+    border: 0px;
+    padding: 12px;
+}
+#button1{
+    background-color: #f84444;
+    color: white;
+}
+#button2{
+    background-color: #2e2d2d;
+    color: white;
+}
+p{
+    padding: 10px;
+    text-align: center;
+    border-bottom: 2px solid black;
+    margin: 8px 0px;
+    font-weight: bold;
+}
+#div2{
+    width: 100% !important;
+}
